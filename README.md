@@ -1,6 +1,6 @@
 # Real Name
 yu zhaohan
-# Hoby
+# Hobby
 
 趣味など
 # Subject
