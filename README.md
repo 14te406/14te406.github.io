@@ -4,7 +4,7 @@ yu zhaohan
 
 # Hobby
 
-[趣味など](https://14te406wordpress.wordpress.com/)[testsite](https://yu.mki.biz)
+[趣味など](https://14te406wordpress.wordpress.com/)[testsite](http://yu.mki.biz)
 
 # Subject
 
